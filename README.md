@@ -1,10 +1,4 @@
 ### Hi there 👋
-
-<!--
-**YourBuddyUnit/YourBuddyUnit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on: learning py, and studing for CBROPS
 - 🌱 I’m currently learning: python, SQL, CSV, Git
 - 👯 I’m looking to collaborate on ...
@@ -15,4 +9,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I really need a job -8/22
 - :thought_balloon: I have really only made a Q/A script and a ciscoCMD line motd banner
 :trollface: Maybe I'll learn something useful for SOC analysis, because thats what I wanna.
--->
